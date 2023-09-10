@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA",
+	"CMAKE_SOURCE_DIR" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA",
+	"INCLUDE_DIR" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/images/search.jpg"
+	],
+	"LOCK_FILE" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/CMakeFiles/appIA_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "/Applications/Qt/6.4.1/macos/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/CMakeFiles/appIA_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/res.qrc",
+	"VERBOSITY" : 0
+}

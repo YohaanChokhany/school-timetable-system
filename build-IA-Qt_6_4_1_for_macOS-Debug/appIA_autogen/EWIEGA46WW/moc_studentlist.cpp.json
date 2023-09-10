@@ -1,0 +1,181 @@
+{
+    "classes": [
+        {
+            "className": "StudentList",
+            "object": true,
+            "qualifiedClassName": "StudentList",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "preItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "preItemRemoved",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemRemoved",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "reg",
+                            "type": "int"
+                        },
+                        {
+                            "name": "edu",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "first_name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "middle_name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "last_name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "gender",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "hl1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "hl2",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "hl3",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "sl1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "sl2",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "sl3",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_2",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_3",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_4",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_5",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_6",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_7",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_8",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "appendItem",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clearItems",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "students",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "name": "removeStudents",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "query",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "searchStudents",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "loadStudents",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "student",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "name": "getStudent",
+                    "returnType": "QStringList"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "studentlist.h",
+    "outputRevision": 68
+}

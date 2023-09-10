@@ -1,0 +1,1202 @@
+[
+    {
+        "classes": [
+            {
+                "className": "Database",
+                "object": true,
+                "qualifiedClassName": "Database",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "progress",
+                                "type": "int"
+                            },
+                            {
+                                "name": "epochs",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "progress",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "progress",
+                                "type": "int"
+                            },
+                            {
+                                "name": "total",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "downloadProgress",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "name": "getSubjects",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "search_query",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "getStudents",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "username",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "password",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "loginUser",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "username",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "password",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "confirmPassword",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "addUser",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "uploadFile",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "reg",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "edu",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "first_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "middle_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "last_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "gender",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "grade",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl3",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl3",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "addStudent",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "reg",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "edu",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "first_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "middle_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "last_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "gender",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl3",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl3",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "editStudent",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "subjects",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "addTeacher",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "subjects",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "editTeacher",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "addSubject",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "teachers",
+                                "type": "QStringList"
+                            }
+                        ],
+                        "name": "addSubject",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "editSubject",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "getStudent",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "getBatch",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "getSubject",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "getTeacher",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "getGrade",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "grade",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "verifyStudentData",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "refreshNewYear",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "path",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "grade",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "createTimetable",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "string",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "initials",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "reg",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "getStudentLocation",
+                        "returnType": "QStringList"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "grade",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_all_values",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "list",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "permutations",
+                        "returnType": "QList<QList<int>>"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "subjects",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "generate_candidates",
+                        "returnType": "QList<QList<int>>"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "candidate",
+                                "type": "int"
+                            },
+                            {
+                                "name": "block",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "verify_candidate",
+                        "returnType": "bool"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "subject",
+                                "type": "int"
+                            },
+                            {
+                                "name": "block",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_batches_from_block",
+                        "returnType": "QList<Batch>"
+                    },
+                    {
+                        "access": "public",
+                        "name": "calculate_optimum_candidate",
+                        "returnType": "std::tuple<Student,QList<int>>"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "subject",
+                                "type": "int"
+                            },
+                            {
+                                "name": "block",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "create_batch",
+                        "returnType": "Batch"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "student",
+                                "type": "int"
+                            },
+                            {
+                                "name": "candidate",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "insert_student",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "grade",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "assignBatches",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "implementBatch",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "implementTOKBatches",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_student",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_remaining_student",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_subject",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "get_batch",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_batch_by_block",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "get_teacher",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "name": "create_batch_id",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "list",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "qListIntToQString",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "key",
+                                "type": "int"
+                            },
+                            {
+                                "name": "list",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "binary_search",
+                        "returnType": "int"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "database.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "global",
+                "object": true,
+                "qualifiedClassName": "global",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "global.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "StudentList",
+                "object": true,
+                "qualifiedClassName": "StudentList",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "preItemAppended",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "postItemAppended",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "preItemRemoved",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "postItemRemoved",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "reg",
+                                "type": "int"
+                            },
+                            {
+                                "name": "edu",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "first_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "middle_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "last_name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "gender",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "hl3",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "sl3",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_3",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_4",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_5",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_6",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_7",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_8",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "appendItem",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "clearItems",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "students",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "removeStudents",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "query",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "searchStudents",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "loadStudents",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "student",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "getStudent",
+                        "returnType": "QStringList"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "studentlist.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "StudentModel",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "list",
+                        "read": "list",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "StudentList*",
+                        "user": false,
+                        "write": "setList"
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "grade",
+                        "read": "grade",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int*",
+                        "user": false,
+                        "write": "setGrade"
+                    }
+                ],
+                "qualifiedClassName": "StudentModel",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "studentmodel.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SubjectList",
+                "object": true,
+                "qualifiedClassName": "SubjectList",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "preItemAppended",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "postItemAppended",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "preItemRemoved",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "postItemRemoved",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            },
+                            {
+                                "name": "code",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "teachers",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "batches",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "appendSubject",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "clearSubjects",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "subjects",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "removeSubjects",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "query",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "searchSubjects",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "loadSubjects",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "subject",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "getSubject",
+                        "returnType": "QStringList"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "subjectlist.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "SubjectModel",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "list",
+                        "read": "list",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "SubjectList*",
+                        "user": false,
+                        "write": "setList"
+                    }
+                ],
+                "qualifiedClassName": "SubjectModel",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "subjectmodel.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "TeacherList",
+                "object": true,
+                "qualifiedClassName": "TeacherList",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "preItemAppended",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "postItemAppended",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "index",
+                                "type": "int"
+                            }
+                        ],
+                        "name": "preItemRemoved",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "postItemRemoved",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "id",
+                                "type": "int"
+                            },
+                            {
+                                "name": "name",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "subjects",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_1",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_2",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_3",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_4",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_5",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_6",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "block_7",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "appendTeacher",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "clearTeachers",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "teachers",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "removeTeachers",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "query",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "searchTeachers",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "loadTeachers",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "teacher",
+                                "type": "QList<int>"
+                            }
+                        ],
+                        "name": "getTeacher",
+                        "returnType": "QStringList"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "teacherlist.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "TeacherModel",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "list",
+                        "read": "list",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "TeacherList*",
+                        "user": false,
+                        "write": "setList"
+                    }
+                ],
+                "qualifiedClassName": "TeacherModel",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "teachermodel.h",
+        "outputRevision": 68
+    }
+]

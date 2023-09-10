@@ -1,0 +1,28 @@
+module IA
+typeinfo appIA.qmltypes
+prefer :/IA/
+Login 1.0 Login.qml
+MainMenu 1.0 MainMenu.qml
+SettingsMenu 1.0 SettingsMenu.qml
+AddUser 1.0 AddUser.qml
+ViewStudents 1.0 ViewStudents.qml
+ViewTeachers 1.0 ViewTeachers.qml
+ViewSubjects 1.0 ViewSubjects.qml
+AddStudent 1.0 AddStudent.qml
+EditStudent 1.0 EditStudent.qml
+AddTeacher 1.0 AddTeacher.qml
+EditTeacher 1.0 EditTeacher.qml
+AddSubject 1.0 AddSubject.qml
+EditSubject 1.0 EditSubject.qml
+YTextField 1.0 YTextField.qml
+YButton 1.0 YButton.qml
+YCheckBox 1.0 YCheckBox.qml
+YStudentView 1.0 YStudentView.qml
+YTeacherView 1.0 YTeacherView.qml
+YSubjectView 1.0 YSubjectView.qml
+YComboBox 1.0 YComboBox.qml
+ViewSingleBatch 1.0 ViewSingleBatch.qml
+ViewSingleStudent 1.0 ViewSingleStudent.qml
+ViewSingleTeacher 1.0 ViewSingleTeacher.qml
+StudentLocator 1.0 StudentLocator.qml
+

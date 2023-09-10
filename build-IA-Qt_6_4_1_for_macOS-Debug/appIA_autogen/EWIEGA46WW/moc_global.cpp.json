@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "global",
+            "object": true,
+            "qualifiedClassName": "global",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "global.h",
+    "outputRevision": 68
+}

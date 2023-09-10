@@ -1,0 +1,14 @@
+-rootPath
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA
+-cmake-output
+-output-file
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appIA.cmake
+-importPath
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA
+-importPath
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug
+-importPath
+/Applications/Qt/6.4.1/macos/./qml
+-qrcFiles
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmake_IA.qrc
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/appIA_raw_qml_0.qrc

@@ -1,0 +1,30 @@
+<RCC>
+  <qresource prefix="/IA/">
+    <file alias="main.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/main.qml</file>
+    <file alias="Login.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/Login.qml</file>
+    <file alias="MainMenu.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/MainMenu.qml</file>
+    <file alias="SettingsMenu.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/SettingsMenu.qml</file>
+    <file alias="AddUser.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/AddUser.qml</file>
+    <file alias="ViewStudents.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/ViewStudents.qml</file>
+    <file alias="ViewTeachers.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/ViewTeachers.qml</file>
+    <file alias="ViewSubjects.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/ViewSubjects.qml</file>
+    <file alias="AddStudent.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/AddStudent.qml</file>
+    <file alias="EditStudent.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/EditStudent.qml</file>
+    <file alias="AddTeacher.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/AddTeacher.qml</file>
+    <file alias="EditTeacher.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/EditTeacher.qml</file>
+    <file alias="AddSubject.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/AddSubject.qml</file>
+    <file alias="EditSubject.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/EditSubject.qml</file>
+    <file alias="YTextField.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YTextField.qml</file>
+    <file alias="YButton.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YButton.qml</file>
+    <file alias="YCheckBox.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YCheckBox.qml</file>
+    <file alias="YStudentView.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YStudentView.qml</file>
+    <file alias="YTeacherView.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YTeacherView.qml</file>
+    <file alias="YSubjectView.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YSubjectView.qml</file>
+    <file alias="YComboBox.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/YComboBox.qml</file>
+    <file alias="ViewSingleBatch.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/ViewSingleBatch.qml</file>
+    <file alias="ViewSingleStudent.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/ViewSingleStudent.qml</file>
+    <file alias="ViewSingleTeacher.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/ViewSingleTeacher.qml</file>
+    <file alias="StudentLocator.qml">/Users/yohaanchokhany/Desktop/Programming/FINAL IA/IA/StudentLocator.qml</file>
+  </qresource>
+</RCC>
+

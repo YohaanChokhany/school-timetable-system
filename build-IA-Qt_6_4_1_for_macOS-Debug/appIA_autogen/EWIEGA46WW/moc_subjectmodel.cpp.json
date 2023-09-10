@@ -1,0 +1,33 @@
+{
+    "classes": [
+        {
+            "className": "SubjectModel",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "list",
+                    "read": "list",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "SubjectList*",
+                    "user": false,
+                    "write": "setList"
+                }
+            ],
+            "qualifiedClassName": "SubjectModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "subjectmodel.h",
+    "outputRevision": 68
+}

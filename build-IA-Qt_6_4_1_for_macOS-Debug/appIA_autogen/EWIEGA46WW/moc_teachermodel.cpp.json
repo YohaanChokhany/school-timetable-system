@@ -1,0 +1,33 @@
+{
+    "classes": [
+        {
+            "className": "TeacherModel",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "list",
+                    "read": "list",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "TeacherList*",
+                    "user": false,
+                    "write": "setList"
+                }
+            ],
+            "qualifiedClassName": "TeacherModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "teachermodel.h",
+    "outputRevision": 68
+}

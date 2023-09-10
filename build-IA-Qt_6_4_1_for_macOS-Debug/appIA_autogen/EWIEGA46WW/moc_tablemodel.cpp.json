@@ -1,0 +1,43 @@
+{
+    "classes": [
+        {
+            "classInfos": [
+                {
+                    "name": "QML.Element",
+                    "value": "auto"
+                },
+                {
+                    "name": "QML.AddedInVersion",
+                    "value": "65281"
+                }
+            ],
+            "className": "TableModel",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "list",
+                    "read": "list",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ToDoList*",
+                    "user": false,
+                    "write": "setList"
+                }
+            ],
+            "qualifiedClassName": "TableModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "tablemodel.h",
+    "outputRevision": 68
+}

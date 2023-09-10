@@ -1,0 +1,137 @@
+{
+    "classes": [
+        {
+            "className": "TeacherList",
+            "object": true,
+            "qualifiedClassName": "TeacherList",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "preItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "preItemRemoved",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemRemoved",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "int"
+                        },
+                        {
+                            "name": "name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "subjects",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_2",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_3",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_4",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_5",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_6",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "block_7",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "appendTeacher",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clearTeachers",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "teachers",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "name": "removeTeachers",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "query",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "searchTeachers",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "loadTeachers",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "teacher",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "name": "getTeacher",
+                    "returnType": "QStringList"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "teacherlist.h",
+    "outputRevision": 68
+}

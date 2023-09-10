@@ -1,0 +1,117 @@
+{
+    "classes": [
+        {
+            "className": "SubjectList",
+            "object": true,
+            "qualifiedClassName": "SubjectList",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "preItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "preItemRemoved",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemRemoved",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "id",
+                            "type": "int"
+                        },
+                        {
+                            "name": "code",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "teachers",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "batches",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "appendSubject",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clearSubjects",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "subjects",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "name": "removeSubjects",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "query",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "searchSubjects",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "loadSubjects",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "subject",
+                            "type": "QList<int>"
+                        }
+                    ],
+                    "name": "getSubject",
+                    "returnType": "QStringList"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "subjectlist.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,373 @@
+# ninja log v5
+10	20	1673507996432642637	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewSingleTeacher.qml	49997d3499972df0
+12	22	1675114903149984478	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YCheckBox.qml	de87cee0cd0a2336
+1332	1484	1677748737057490945	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YCheckBox_qml.cpp	8a693e7513dea137
+4252	5514	1677748741085664772	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_EditSubject_qml.cpp.o	c12bdcff23ef0749
+9	18	1675090648992360688	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/main.qml	102fc458a019ccee
+1617	3122	1677748738695559148	CMakeFiles/appIA.dir/appia_qmltyperegistrations.cpp.o	de760ee5f6aad66f
+11	22	1675108878979781556	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewStudents.qml	d3465d1bf54c3582
+12	22	1675319864396022702	IA/StudentLocator.qml	58807d67a762ea13
+5545	6326	1677748741900998767	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_StudentLocator_qml.cpp.o	93d9a20ed1171377
+4512	5717	1677748741289880006	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YCheckBox_qml.cpp.o	1c062bdb08f98134
+4940	5900	1677748741473253547	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSingleBatch_qml.cpp.o	da1ea358c1a8180e
+5	15	1672913597587885043	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/SquareButton.qml	9208f09f93e884bd
+11	22	1674986405604675889	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YTeacherView.qml	2c92066bd9ee7157
+9	20	1673507996432593262	IA/EditSubject.qml	aed2907d91d8b8ad
+1313	1502	1677748737073822603	.rcc/qmlcache/appIA_EditSubject_qml.cpp	1546a70d637b2f6e
+53	111	1672913597679933380	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_SquareButton_qml.cpp	71a35b10abd1c26f
+1486	1595	1677748737169999325	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSingleTeacher_qml.cpp	9c5f3a768f877d29
+13	27	1674981398340168889	IA/ViewSingleBatch.qml	e4533f719642b2e0
+8	17	1675092895644382226	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YStudentView.qml	a8407a39d4ca681b
+1486	1595	1677748737169999325	.rcc/qmlcache/appIA_ViewSingleTeacher_qml.cpp	9c5f3a768f877d29
+7	15	1673178105089063788	IA/YSubjectView.qml	f653fa708c314127
+1332	1557	1677748737127928358	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YStudentView_qml.cpp	cdc2377b588cebbd
+9	20	1673507996432590720	IA/AddSubject.qml	3be50589746780e4
+1500	1614	1677748737189133871	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_StudentLocator_qml.cpp	2e258c0e80ae5956
+1313	1502	1677748737073822603	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_EditSubject_qml.cpp	1546a70d637b2f6e
+66	90	1675319864463849278	.rcc/qrc_appIA_raw_qml_0.cpp	1b4c5252d8b4860c
+1500	1614	1677748737189133871	.rcc/qmlcache/appIA_StudentLocator_qml.cpp	2e258c0e80ae5956
+934	1395	1677748736966400960	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewStudents_qml.cpp	3c870b7dea254a61
+4528	5700	1677748741270070759	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YStudentView_qml.cpp.o	2707675e3eb090b6
+11	22	1674986405604675889	IA/YTeacherView.qml	2c92066bd9ee7157
+10	19	1673260230672961055	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewTeachers.qml	eda6226331f9cfb0
+1315	1506	1677748737080826529	.rcc/qmlcache/appIA_YTextField_qml.cpp	b07f4bb3e580232e
+144	197	1675319864569505973	CMakeFiles/appIA.dir/.rcc/qrc_appIA_raw_qml_0.cpp.o	a50d5a25a9fe03e7
+5514	6357	1677748741930754699	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSingleTeacher_qml.cpp.o	65d9033ae970ea82
+1300	1486	1677748737059128260	.rcc/qmlcache/appIA_AddSubject_qml.cpp	3d03e16f5c7bef68
+323	1046	1672953852045913107	CMakeFiles/appIA.dir/tablemodel.cpp.o	bd6d1c640f8d351e
+310	1079	1673015054676289562	CMakeFiles/appIA.dir/student.cpp.o	aca40ee31926a86e
+1332	1484	1677748737057490945	.rcc/qmlcache/appIA_YCheckBox_qml.cpp	8a693e7513dea137
+97	174	1672896271755345715	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_CoolButton_qml.cpp	50f0bac4e45089ef
+1395	1541	1677748737109160726	.rcc/qmlcache/appIA_YSubjectView_qml.cpp	5dc6b8698c43e4fc
+673	718	1677748736296281246	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+877	2489	1675081921996505822	CMakeFiles/appIA.dir/subjectlist.cpp.o	9357c963831c99eb
+673	718	1677748736296281246	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+6	16	1673042056912635469	IA/AddUser.qml	db49f9e39d4f26cb
+9	20	1673507996432593262	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/EditSubject.qml	aed2907d91d8b8ad
+934	1395	1677748736966400960	.rcc/qmlcache/appIA_ViewStudents_qml.cpp	3c870b7dea254a61
+1300	1486	1677748737059128260	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddSubject_qml.cpp	3d03e16f5c7bef68
+1484	1596	1677748737171058397	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSingleBatch_qml.cpp	7a9e7fc7ce6584b4
+14	25	1675141736907758234	IA/SettingsMenu.qml	6e31f49c42ed1bd3
+1349	1499	1677748737073109069	.rcc/qmlcache/appIA_YTeacherView_qml.cpp	cf1b992ee91e9c4
+928	1312	1677748736883102975	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_main_qml.cpp	7f0b3603e5ff223f
+7	15	1673178105089063788	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YSubjectView.qml	f653fa708c314127
+10	19	1673260230673318511	IA/ViewSingleStudent.qml	9c12a33c30e858d7
+1317	1480	1677748737055224010	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YButton_qml.cpp	edfb5b5b434a182f
+931	1289	1677748736862326322	.rcc/qmlcache/appIA_MainMenu_qml.cpp	d9ba7a73633138d3
+873	2517	1675081922032359428	CMakeFiles/appIA.dir/teachermodel.cpp.o	b12eeb2329d39535
+938	1332	1677748736897595820	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewTeachers_qml.cpp	4feff87293722490
+11	22	1675108878979781556	IA/ViewStudents.qml	d3465d1bf54c3582
+929	1297	1677748736872466630	.rcc/qmlcache/appIA_Login_qml.cpp	85e3679823f816e2
+88	161	1672892544674548265	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_InputField_qml.cpp	978eb6c43d9a3ee8
+938	1332	1677748736897595820	.rcc/qmlcache/appIA_ViewTeachers_qml.cpp	4feff87293722490
+1484	1596	1677748737171058397	.rcc/qmlcache/appIA_ViewSingleBatch_qml.cpp	7a9e7fc7ce6584b4
+6	16	1673042056912635469	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/AddUser.qml	db49f9e39d4f26cb
+3346	4512	1677748740084587345	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddTeacher_qml.cpp.o	476cf666aa4a0c43
+1619	3319	1677748738890100110	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_Login_qml.cpp.o	b22cb8abac920653
+873	2343	1675081921854575924	CMakeFiles/appIA.dir/teacherlist.cpp.o	64f91afdb7daa7bb
+92	103	1675110761266569153	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qrc_qmake_IA.cpp	8e3a72d90ba9d57d
+942	1349	1677748736920735989	.rcc/qmlcache/appIA_ViewSubjects_qml.cpp	d9c3687be309874
+4502	5814	1677748741387067384	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YButton_qml.cpp.o	3e2d68ee6c94da20
+934	1315	1677748736887470845	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddUser_qml.cpp	afc5b953c00e85aa
+1289	1485	1677748737058947762	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddTeacher_qml.cpp	2d60ed5c11b3ec30
+12	66	1675319864439124626	.qt_plugins/Qt6_QmlPlugins_Imports_appIA.cmake	79bdbf9f51aeb72c
+9	20	1673507996432590720	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/AddSubject.qml	3be50589746780e4
+12	22	1675319864396022702	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/StudentLocator.qml	58807d67a762ea13
+312	1701	1673041330012891453	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YModelView_qml.cpp.o	6d5d11590f74f4e6
+8	18	1673177291327913393	IA/EditStudent.qml	8bf1183f66e89911
+9	19	1673247614403783775	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YButton.qml	f0a55e154d55b813
+7	17	1673036298961774494	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YComboBox.qml	2a2b3880f4d4ef3d
+26	673	1677748736232415000	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+12	23	1673254455622456497	IA/YTextField.qml	8c19cfbda9f44c85
+3293	4502	1677748740075099113	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSubjects_qml.cpp.o	809d4e8c6f414d0a
+8	18	1673177325102742461	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/EditTeacher.qml	25f348cfa2be0d2
+198	434	1673062149316383829	.rcc/qmlcache/appIA_StudentDatabase_qml.cpp	f87f9904e9c314b6
+1289	1485	1677748737058947762	.rcc/qmlcache/appIA_AddTeacher_qml.cpp	2d60ed5c11b3ec30
+6357	6505	1677748742081830501	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+8	18	1673177325102742461	IA/EditTeacher.qml	25f348cfa2be0d2
+931	1289	1677748736862326322	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_MainMenu_qml.cpp	d9ba7a73633138d3
+7	16	1673042458482624955	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/Login.qml	eb1a74599103e8b2
+419	1638	1673012548570073045	CMakeFiles/appIA.dir/todomodel.cpp.o	40396c89307f7630
+4	16	1672892544531184724	IA/InputField.qml	24242ed0d8d58b61
+1621	3346	1677748738916421912	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddUser_qml.cpp.o	544c29a6e8907beb
+4	16	1672892544531184724	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/InputField.qml	24242ed0d8d58b61
+3122	4271	1677748739844223372	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewTeachers_qml.cpp.o	c3cef26367fac3ae
+1315	1506	1677748737080826529	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YTextField_qml.cpp	b07f4bb3e580232e
+772	927	1677748736480357904	IA/appIA.qmltypes	d6c584b08d9f44ae
+1623	3612	1677748739183598640	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewStudents_qml.cpp.o	60fec8afc1f0a5e8
+97	174	1672896271755345715	.rcc/qmlcache/appIA_CoolButton_qml.cpp	50f0bac4e45089ef
+538	630	1673040871001935432	.rcc/qmlcache/appIA_YModelView_qml.cpp	2417496fc9e23062
+5	15	1672913597587885043	IA/SquareButton.qml	9208f09f93e884bd
+932	1299	1677748736874060238	.rcc/qmlcache/appIA_SettingsMenu_qml.cpp	1f41cabf0742fa85
+929	1297	1677748736872466630	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_Login_qml.cpp	85e3679823f816e2
+7	16	1673042458482624955	IA/Login.qml	eb1a74599103e8b2
+1297	1504	1677748737079196213	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_EditTeacher_qml.cpp	b934f539d256a371
+673	718	1677748736296281246	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+9	19	1673247614403783775	IA/YButton.qml	f0a55e154d55b813
+10	20	1673507996432642637	IA/ViewSingleTeacher.qml	49997d3499972df0
+12	66	1675319864439124626	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appIA.cmake	79bdbf9f51aeb72c
+111	823	1672913598391930760	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_SquareButton_qml.cpp.o	88ceea03b563a7e3
+719	772	1677748736350273460	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+288	1234	1677736665984238190	CMakeFiles/appIA.dir/studentmodel.cpp.o	7bc8ba8e4fac5829
+14	43	1675110761205849472	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_qmlcache_loader.cpp	119e89bd115d1750
+161	866	1672892545377938432	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_InputField_qml.cpp.o	a99bf690aacc3e48
+8	18	1673177291327923726	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/AddStudent.qml	c4d833fc655bac4a
+88	161	1672892544674548265	.rcc/qmlcache/appIA_InputField_qml.cpp	978eb6c43d9a3ee8
+4272	5545	1677748741115906615	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YTextField_qml.cpp.o	9c394a7f0bccf3a1
+719	772	1677748736350273460	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+4118	4170	1673235020464646087	CMakeFiles/appIA.dir/appIA_autogen/EWIEGA46WW/qrc_res.cpp.o	283ecf1756b49a15
+952	1317	1677748736888310961	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_EditStudent_qml.cpp	3d24d12a00d7f6b3
+10	19	1673260230672961055	IA/ViewTeachers.qml	eda6226331f9cfb0
+37	53	1673018624683156680	appIA_autogen/EWIEGA46WW/qrc_res.cpp	bdffffd1aead6afc
+1349	1499	1677748737073109069	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YTeacherView_qml.cpp	cf1b992ee91e9c4
+1621	3337	1677748738908189417	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_MainMenu_qml.cpp.o	4c495547261ca693
+6	18	1672896271602669477	IA/CoolButton.qml	4920f649d8acd244
+92	103	1675110761266569153	.rcc/qrc_qmake_IA.cpp	8e3a72d90ba9d57d
+772	927	1677748736480357904	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appia_qmltyperegistrations.cpp	d6c584b08d9f44ae
+1317	1480	1677748737055224010	.rcc/qmlcache/appIA_YButton_qml.cpp	edfb5b5b434a182f
+1621	3587	1677748739160754134	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_SettingsMenu_qml.cpp.o	d720c684e475e672
+1614	4252	1677748739822338773	CMakeFiles/appIA.dir/main.cpp.o	15eb1d833017162
+53	111	1672913597679933380	.rcc/qmlcache/appIA_SquareButton_qml.cpp	71a35b10abd1c26f
+1486	1605	1677748737180330840	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSingleStudent_qml.cpp	558bed4a0d0a173c
+633	1963	1673040872332988604	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_StudentDatabase_qml.cpp.o	abc02c30bf296080
+947	1332	1677748736895706132	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddStudent_qml.cpp	fa55e64e6fcaca50
+418	1326	1675110762484171922	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_qmlcache_loader.cpp.o	8e71f895b626f614
+1332	1557	1677748737127928358	.rcc/qmlcache/appIA_YStudentView_qml.cpp	cdc2377b588cebbd
+66	90	1675319864463849278	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qrc_appIA_raw_qml_0.cpp	1b4c5252d8b4860c
+673	718	1677748736296281246	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+4569	5773	1677748741345390788	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YTeacherView_qml.cpp.o	f0c9ccf4b83bb5d2
+11	20	1675112170360151968	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/MainMenu.qml	471595ac49c88dd8
+3	397	1677875913199129013	build.ninja	881d81c0fe63cf78
+772	927	1677748736480357904	appia_qmltyperegistrations.cpp	d6c584b08d9f44ae
+3613	4825	1677748740397432293	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddSubject_qml.cpp.o	b5aabba26defac10
+928	1312	1677748736883102975	.rcc/qmlcache/appIA_main_qml.cpp	7f0b3603e5ff223f
+942	1349	1677748736920735989	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSubjects_qml.cpp	d9c3687be309874
+719	772	1677748736350273460	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+83	682	1673013354251248765	CMakeFiles/appIA.dir/todolist.cpp.o	c4a1043e0e3ed0db
+1480	1589	1677748737164215845	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YComboBox_qml.cpp	7d01012f013b20b
+26	673	1677748736232415000	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+14	43	1675110761205849472	.rcc/qmlcache/appIA_qmlcache_loader.cpp	119e89bd115d1750
+8	17	1675092895644382226	IA/YStudentView.qml	a8407a39d4ca681b
+4826	5867	1677748741440276691	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YComboBox_qml.cpp.o	497a004cd07b8ef9
+7	18	1673177325102712837	IA/AddTeacher.qml	567bf2883e888a36
+832	2675	1675092663462878261	CMakeFiles/appIA.dir/studentlist.cpp.o	29c957acdae3abfd
+9	18	1675090648992360688	IA/main.qml	102fc458a019ccee
+198	434	1673062149316383829	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_StudentDatabase_qml.cpp	f87f9904e9c314b6
+1616	5388	1677748740957462975	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+880	2452	1675081921967665905	CMakeFiles/appIA.dir/global.cpp.o	1e550b842e0a89a4
+538	630	1673040871001935432	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YModelView_qml.cpp	2417496fc9e23062
+26	673	1677748736232415000	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+1614	4940	1677748740506608461	CMakeFiles/appIA.dir/appIA_autogen/mocs_compilation.cpp.o	820c64e3ba9f3733
+719	772	1677748736350273460	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+195	1067	1672896272647313283	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_CoolButton_qml.cpp.o	adaf26b68476cb5c
+8	18	1673177291327913393	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/EditStudent.qml	8bf1183f66e89911
+932	1299	1677748736874060238	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_SettingsMenu_qml.cpp	1f41cabf0742fa85
+3588	4724	1677748740292251667	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_EditTeacher_qml.cpp.o	1d6e091730342036
+12	23	1673254455622456497	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/YTextField.qml	8c19cfbda9f44c85
+6	18	1672896271602669477	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/CoolButton.qml	4920f649d8acd244
+8	22	1673062148907672827	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/StudentDatabase.qml	3eb724bd5a0ae97d
+12	22	1675114903149984478	IA/YCheckBox.qml	de87cee0cd0a2336
+952	1317	1677748736888310961	.rcc/qmlcache/appIA_EditStudent_qml.cpp	3d24d12a00d7f6b3
+14	25	1675141736907758234	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/SettingsMenu.qml	6e31f49c42ed1bd3
+1618	3293	1677748738865824078	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_main_qml.cpp.o	1300aae8d28d77cc
+1297	1504	1677748737079196213	.rcc/qmlcache/appIA_EditTeacher_qml.cpp	b934f539d256a371
+934	1315	1677748736887470845	.rcc/qmlcache/appIA_AddUser_qml.cpp	afc5b953c00e85aa
+947	1332	1677748736895706132	.rcc/qmlcache/appIA_AddStudent_qml.cpp	fa55e64e6fcaca50
+26	673	1677748736232415000	appIA_autogen/timestamp	b18deef3b541a878
+7	18	1673177325102712837	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/AddTeacher.qml	567bf2883e888a36
+11	20	1673178124720476886	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewSubjects.qml	9620e89f3028554a
+13	27	1674981398340168889	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewSingleBatch.qml	e4533f719642b2e0
+417	453	1675110761613891541	CMakeFiles/appIA.dir/.rcc/qrc_qmake_IA.cpp.o	98a6744a1331e065
+11	20	1675112170360151968	IA/MainMenu.qml	471595ac49c88dd8
+8	18	1673177291327923726	IA/AddStudent.qml	c4d833fc655bac4a
+11	20	1673178124720476886	IA/ViewSubjects.qml	9620e89f3028554a
+1480	1589	1677748737164215845	.rcc/qmlcache/appIA_YComboBox_qml.cpp	7d01012f013b20b
+1486	1605	1677748737180330840	.rcc/qmlcache/appIA_ViewSingleStudent_qml.cpp	558bed4a0d0a173c
+37	53	1673018624683156680	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/EWIEGA46WW/qrc_res.cpp	bdffffd1aead6afc
+3319	4566	1677748740137862067	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddStudent_qml.cpp.o	f391e80c49143eba
+7	17	1673036298961774494	IA/YComboBox.qml	2a2b3880f4d4ef3d
+5389	6215	1677748741789117213	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSingleStudent_qml.cpp.o	3beadee9f9c2bd5e
+1395	1541	1677748737109160726	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YSubjectView_qml.cpp	5dc6b8698c43e4fc
+10	19	1673260230673318511	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewSingleStudent.qml	9c12a33c30e858d7
+8	22	1673062148907672827	IA/StudentDatabase.qml	3eb724bd5a0ae97d
+772	927	1677748736480357904	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/appIA.qmltypes	d6c584b08d9f44ae
+4725	5835	1677748741408850568	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YSubjectView_qml.cpp.o	18fbd9d256c65abf
+873	2488	1675081922001180073	CMakeFiles/appIA.dir/subjectmodel.cpp.o	661e4dde00e2a761
+3337	4528	1677748740100798880	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_EditStudent_qml.cpp.o	858837090c5611e1
+13	63	1677876519503698976	appIA_autogen/timestamp	b18deef3b541a878
+13	63	1677876519503698976	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+13	63	1677876519503698976	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+13	63	1677876519503698976	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+69	84	1677876519525224576	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+69	84	1677876519525224576	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+69	84	1677876519525224576	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+69	84	1677876519525224576	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+84	104	1677876519525176491	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+84	104	1677876519525176491	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+84	104	1677876519525176491	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+84	104	1677876519525176491	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+105	1988	1677876521418020024	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+1988	2144	1677876521583616797	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+20	546	1677940429818492000	appIA_autogen/timestamp	b18deef3b541a878
+20	546	1677940429818492000	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+20	546	1677940429818492000	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+20	546	1677940429818492000	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+546	560	1677940429841871181	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+546	560	1677940429841871181	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+546	560	1677940429841871181	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+546	560	1677940429841871181	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+560	577	1677940429859053669	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+560	577	1677940429859053669	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+560	577	1677940429859053669	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+560	577	1677940429859053669	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+577	647	1677940429917693488	appia_qmltyperegistrations.cpp	d6c584b08d9f44ae
+577	647	1677940429917693488	IA/appIA.qmltypes	d6c584b08d9f44ae
+577	647	1677940429917693488	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appia_qmltyperegistrations.cpp	d6c584b08d9f44ae
+577	647	1677940429917693488	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/appIA.qmltypes	d6c584b08d9f44ae
+648	821	1677940430093200277	.rcc/qmlcache/appIA_AddUser_qml.cpp	afc5b953c00e85aa
+648	821	1677940430093200277	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddUser_qml.cpp	afc5b953c00e85aa
+647	821	1677940430097797193	.rcc/qmlcache/appIA_main_qml.cpp	7f0b3603e5ff223f
+647	821	1677940430097797193	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_main_qml.cpp	7f0b3603e5ff223f
+647	822	1677940430095909426	.rcc/qmlcache/appIA_Login_qml.cpp	85e3679823f816e2
+647	822	1677940430095909426	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_Login_qml.cpp	85e3679823f816e2
+647	823	1677940430092521729	.rcc/qmlcache/appIA_SettingsMenu_qml.cpp	1f41cabf0742fa85
+647	823	1677940430092521729	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_SettingsMenu_qml.cpp	1f41cabf0742fa85
+647	826	1677940430101221765	.rcc/qmlcache/appIA_MainMenu_qml.cpp	d9ba7a73633138d3
+647	826	1677940430101221765	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_MainMenu_qml.cpp	d9ba7a73633138d3
+648	827	1677940430103185783	.rcc/qmlcache/appIA_ViewTeachers_qml.cpp	4feff87293722490
+648	827	1677940430103185783	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewTeachers_qml.cpp	4feff87293722490
+649	829	1677940430106169143	.rcc/qmlcache/appIA_AddStudent_qml.cpp	fa55e64e6fcaca50
+649	829	1677940430106169143	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddStudent_qml.cpp	fa55e64e6fcaca50
+649	829	1677940430103684079	.rcc/qmlcache/appIA_EditStudent_qml.cpp	3d24d12a00d7f6b3
+649	829	1677940430103684079	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_EditStudent_qml.cpp	3d24d12a00d7f6b3
+648	834	1677940430111239897	.rcc/qmlcache/appIA_ViewSubjects_qml.cpp	d9c3687be309874
+648	834	1677940430111239897	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSubjects_qml.cpp	d9c3687be309874
+648	848	1677940430125544109	.rcc/qmlcache/appIA_ViewStudents_qml.cpp	3c870b7dea254a61
+648	848	1677940430125544109	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewStudents_qml.cpp	3c870b7dea254a61
+829	938	1677940430216232093	.rcc/qmlcache/appIA_YCheckBox_qml.cpp	8a693e7513dea137
+829	938	1677940430216232093	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YCheckBox_qml.cpp	8a693e7513dea137
+828	944	1677940430222284397	.rcc/qmlcache/appIA_YButton_qml.cpp	edfb5b5b434a182f
+828	944	1677940430222284397	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YButton_qml.cpp	edfb5b5b434a182f
+826	946	1677940430224626210	.rcc/qmlcache/appIA_YTextField_qml.cpp	b07f4bb3e580232e
+826	946	1677940430224626210	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YTextField_qml.cpp	b07f4bb3e580232e
+821	953	1677940430229842465	.rcc/qmlcache/appIA_EditTeacher_qml.cpp	b934f539d256a371
+821	953	1677940430229842465	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_EditTeacher_qml.cpp	b934f539d256a371
+822	955	1677940430233236912	.rcc/qmlcache/appIA_AddSubject_qml.cpp	3d03e16f5c7bef68
+822	955	1677940430233236912	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddSubject_qml.cpp	3d03e16f5c7bef68
+823	957	1677940430232570573	.rcc/qmlcache/appIA_EditSubject_qml.cpp	1546a70d637b2f6e
+823	957	1677940430232570573	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_EditSubject_qml.cpp	1546a70d637b2f6e
+848	957	1677940430233068286	.rcc/qmlcache/appIA_YSubjectView_qml.cpp	5dc6b8698c43e4fc
+848	957	1677940430233068286	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YSubjectView_qml.cpp	5dc6b8698c43e4fc
+821	964	1677940430241772823	.rcc/qmlcache/appIA_AddTeacher_qml.cpp	2d60ed5c11b3ec30
+821	964	1677940430241772823	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_AddTeacher_qml.cpp	2d60ed5c11b3ec30
+829	972	1677940430250538318	.rcc/qmlcache/appIA_YStudentView_qml.cpp	cdc2377b588cebbd
+829	972	1677940430250538318	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YStudentView_qml.cpp	cdc2377b588cebbd
+834	976	1677940430254851024	.rcc/qmlcache/appIA_YTeacherView_qml.cpp	cf1b992ee91e9c4
+834	976	1677940430254851024	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YTeacherView_qml.cpp	cf1b992ee91e9c4
+939	1025	1677940430303580962	.rcc/qmlcache/appIA_YComboBox_qml.cpp	7d01012f013b20b
+939	1025	1677940430303580962	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_YComboBox_qml.cpp	7d01012f013b20b
+946	1037	1677940430315397527	.rcc/qmlcache/appIA_ViewSingleStudent_qml.cpp	558bed4a0d0a173c
+946	1037	1677940430315397527	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSingleStudent_qml.cpp	558bed4a0d0a173c
+944	1037	1677940430315598487	.rcc/qmlcache/appIA_ViewSingleBatch_qml.cpp	7a9e7fc7ce6584b4
+944	1037	1677940430315598487	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSingleBatch_qml.cpp	7a9e7fc7ce6584b4
+954	1046	1677940430324339899	.rcc/qmlcache/appIA_ViewSingleTeacher_qml.cpp	9c5f3a768f877d29
+954	1046	1677940430324339899	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewSingleTeacher_qml.cpp	9c5f3a768f877d29
+956	1046	1677940430324910238	.rcc/qmlcache/appIA_StudentLocator_qml.cpp	2e258c0e80ae5956
+956	1046	1677940430324910238	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_StudentLocator_qml.cpp	2e258c0e80ae5956
+1047	2175	1677940431449458145	CMakeFiles/appIA.dir/appia_qmltyperegistrations.cpp.o	de760ee5f6aad66f
+1049	2417	1677940431691406310	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddUser_qml.cpp.o	544c29a6e8907beb
+1047	2423	1677940431697250697	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_main_qml.cpp.o	1300aae8d28d77cc
+1047	2440	1677940431714967943	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_Login_qml.cpp.o	b22cb8abac920653
+1047	2446	1677940431712913508	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_MainMenu_qml.cpp.o	4c495547261ca693
+1047	2551	1677940431826495216	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_SettingsMenu_qml.cpp.o	d720c684e475e672
+1050	2668	1677940431939149624	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewStudents_qml.cpp.o	60fec8afc1f0a5e8
+1046	3290	1677940432563079222	CMakeFiles/appIA.dir/main.cpp.o	15eb1d833017162
+2175	3380	1677940432655875537	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewTeachers_qml.cpp.o	c3cef26367fac3ae
+2417	3522	1677940432796377878	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSubjects_qml.cpp.o	809d4e8c6f414d0a
+2446	3553	1677940432826337197	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddTeacher_qml.cpp.o	476cf666aa4a0c43
+2440	3560	1677940432834872609	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_EditStudent_qml.cpp.o	858837090c5611e1
+2424	3577	1677940432851480762	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddStudent_qml.cpp.o	f391e80c49143eba
+2551	3684	1677940432956464692	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_EditTeacher_qml.cpp.o	1d6e091730342036
+2668	3786	1677940433061815666	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_AddSubject_qml.cpp.o	b5aabba26defac10
+1046	3966	1677940433238423008	CMakeFiles/appIA.dir/appIA_autogen/mocs_compilation.cpp.o	820c64e3ba9f3733
+1046	4232	1677940433502509450	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+3290	4414	1677940433689428103	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_EditSubject_qml.cpp.o	c12bdcff23ef0749
+3380	4574	1677940433850453145	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YTextField_qml.cpp.o	9c394a7f0bccf3a1
+3553	4625	1677940433900608988	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YCheckBox_qml.cpp.o	1c062bdb08f98134
+3522	4633	1677940433909352403	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YButton_qml.cpp.o	3e2d68ee6c94da20
+3577	4638	1677940433914311407	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YTeacherView_qml.cpp.o	f0c9ccf4b83bb5d2
+3560	4682	1677940433958770822	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YStudentView_qml.cpp.o	2707675e3eb090b6
+3684	4715	1677940433983811055	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YSubjectView_qml.cpp.o	18fbd9d256c65abf
+3787	4753	1677940434029431897	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_YComboBox_qml.cpp.o	497a004cd07b8ef9
+3966	4851	1677940434126995181	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSingleBatch_qml.cpp.o	da1ea358c1a8180e
+4232	5079	1677940434356383861	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSingleStudent_qml.cpp.o	3beadee9f9c2bd5e
+4414	5258	1677940434535091485	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewSingleTeacher_qml.cpp.o	65d9033ae970ea82
+4575	5375	1677940434652244413	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_StudentLocator_qml.cpp.o	93d9a20ed1171377
+5375	5524	1677940434804015005	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+12	156	1678089108948675284	appIA_autogen/timestamp	b18deef3b541a878
+12	156	1678089108948675284	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+12	156	1678089108948675284	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+12	156	1678089108948675284	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+165	195	1678089109002228597	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+165	195	1678089109002228597	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+165	195	1678089109002228597	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+165	195	1678089109002228597	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+195	235	1678089109002163473	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+195	235	1678089109002163473	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+195	235	1678089109002163473	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+195	235	1678089109002163473	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+235	2646	1678089111446224151	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+2647	2810	1678089111616658432	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+10	75	1678089115725778965	appIA_autogen/timestamp	b18deef3b541a878
+10	75	1678089115725778965	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+10	75	1678089115725778965	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+10	75	1678089115725778965	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+84	100	1678089115752745785	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+84	100	1678089115752745785	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+84	100	1678089115752745785	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+84	100	1678089115752745785	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+100	117	1678089115752663119	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+100	117	1678089115752663119	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+100	117	1678089115752663119	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+100	117	1678089115752663119	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+118	1889	1678089117533483753	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+1889	2036	1678089117686863681	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+15	88	1678089200934096940	appIA_autogen/timestamp	b18deef3b541a878
+15	88	1678089200934096940	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+15	88	1678089200934096940	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+15	88	1678089200934096940	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+97	114	1678089200960132858	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+97	114	1678089200960132858	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+97	114	1678089200960132858	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+97	114	1678089200960132858	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+114	148	1678089200960081526	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+114	148	1678089200960081526	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+114	148	1678089200960081526	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+114	148	1678089200960081526	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+149	1962	1678089202799043065	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+1962	2096	1678089202940213146	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+10	70	1678089418570665209	appIA_autogen/timestamp	b18deef3b541a878
+10	70	1678089418570665209	appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+10	70	1678089418570665209	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/timestamp	b18deef3b541a878
+10	70	1678089418570665209	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/mocs_compilation.cpp	b18deef3b541a878
+78	97	1678089418597390993	meta_types/appIA_json_file_list.txt	79b976026d1617b7
+78	97	1678089418597390993	meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+78	97	1678089418597390993	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt	79b976026d1617b7
+78	97	1678089418597390993	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/appIA_json_file_list.txt.timestamp	79b976026d1617b7
+97	123	1678089418597338367	meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+97	123	1678089418597338367	meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+97	123	1678089418597338367	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json.gen	fb09182ebac63add
+97	123	1678089418597338367	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/meta_types/qt6appia_debug_metatypes.json	fb09182ebac63add
+124	1925	1678089420416411843	CMakeFiles/appIA.dir/database.cpp.o	cdd4f5d634675e9c
+1925	2090	1678089420589007020	appIA.app/Contents/MacOS/appIA	99a7a43470840e0
+11	24	1678109056363245495	IA/ViewStudents.qml	d3465d1bf54c3582
+11	24	1678109056363245495	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/IA/ViewStudents.qml	d3465d1bf54c3582
+12	153	1678109056492578769	.qt_plugins/Qt6_QmlPlugins_Imports_appIA.cmake	79bdbf9f51aeb72c
+12	153	1678109056492578769	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appIA.cmake	79bdbf9f51aeb72c
+154	177	1678109056516782281	.rcc/qrc_appIA_raw_qml_0.cpp	1b4c5252d8b4860c
+154	177	1678109056516782281	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qrc_appIA_raw_qml_0.cpp	1b4c5252d8b4860c
+153	267	1678109056603234158	.rcc/qmlcache/appIA_ViewStudents_qml.cpp	3c870b7dea254a61
+153	267	1678109056603234158	/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/.rcc/qmlcache/appIA_ViewStudents_qml.cpp	3c870b7dea254a61
+267	446	1678109056783709749	CMakeFiles/appIA.dir/.rcc/qrc_appIA_raw_qml_0.cpp.o	a50d5a25a9fe03e7
+267	1299	1678109057634769802	CMakeFiles/appIA.dir/.rcc/qmlcache/appIA_ViewStudents_qml.cpp.o	60fec8afc1f0a5e8
+1299	1445	1678109057782587585	appIA.app/Contents/MacOS/appIA	99a7a43470840e0

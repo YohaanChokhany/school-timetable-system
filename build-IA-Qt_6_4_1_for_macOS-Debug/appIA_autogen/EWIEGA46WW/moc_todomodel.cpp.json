@@ -1,0 +1,47 @@
+{
+    "classes": [
+        {
+            "className": "ToDoModel",
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "list",
+                    "read": "list",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "ToDoList*",
+                    "user": false,
+                    "write": "setList"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "grade",
+                    "read": "grade",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int*",
+                    "user": false,
+                    "write": "setGrade"
+                }
+            ],
+            "qualifiedClassName": "ToDoModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "todomodel.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Student",
+            "object": true,
+            "qualifiedClassName": "Student",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "student.h",
+    "outputRevision": 68
+}

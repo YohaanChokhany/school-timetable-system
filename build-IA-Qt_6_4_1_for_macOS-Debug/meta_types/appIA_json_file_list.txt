@@ -1,0 +1,8 @@
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_database.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_global.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_studentlist.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_studentmodel.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_subjectlist.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_subjectmodel.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_teacherlist.cpp.json
+/Users/yohaanchokhany/Desktop/Programming/FINAL IA/build-IA-Qt_6_4_1_for_macOS-Debug/appIA_autogen/include/../EWIEGA46WW/moc_teachermodel.cpp.json

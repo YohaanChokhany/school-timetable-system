@@ -1,0 +1,127 @@
+{
+    "classes": [
+        {
+            "className": "ToDoList",
+            "object": true,
+            "qualifiedClassName": "ToDoList",
+            "signals": [
+                {
+                    "access": "public",
+                    "name": "preItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemAppended",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "index",
+                            "type": "int"
+                        }
+                    ],
+                    "name": "preItemRemoved",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "postItemRemoved",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "reg",
+                            "type": "int"
+                        },
+                        {
+                            "name": "edu",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "first_name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "middle_name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "last_name",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "gender",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "hl1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "hl2",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "hl3",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "sl1",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "sl2",
+                            "type": "QString"
+                        },
+                        {
+                            "name": "sl3",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "appendItem",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "clearItems",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "name": "removeCompletedItems",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "query",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "searchStudents",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "todolist.h",
+    "outputRevision": 68
+}
